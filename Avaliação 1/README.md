@@ -1,4 +1,4 @@
-# Avaliação I
+# Avaliação 1
 
 ## Resposta 1:
 
@@ -42,18 +42,20 @@
 
 *Observação: o product owner pode delegar partes do seu trabalho, mas isso não reduz sua responsabilidade sobre elas.*
 
-### Referências utilizadas:
-
-*SCHWABER, K.; SUTHERLAND, J.. O Guia Definitivo para o Scrum: As Regras do Jogo. 2020. Disponível em: <https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-2.0.pdf>. Acesso  em: 27 de abril de 2022.*
-
 ## Resposta 6:
 
-Está na pasta Quiz. 
+Está na pasta **Quiz**. 
 
 ## Resposta 7:
 
-Está na pasta Validacao_usuarios. 
+Está na pasta **Validacao_usuarios**. 
 
 ## Resposta 8:
 
-Está na pasta Validacao_bonificacoes.
+Está na pasta **Validacao_bonificacoes**.
+
+***
+
+### Referências utilizadas:
+
+*SCHWABER, K.; SUTHERLAND, J.. **O Guia Definitivo para o Scrum:** As Regras do Jogo. 2020. Disponível em: <https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-2.0.pdf>. Acesso  em: 27 de abril de 2022.*
